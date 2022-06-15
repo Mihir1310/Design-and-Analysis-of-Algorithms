@@ -1,0 +1,2 @@
+In this part we are comparing iterative and recursive methods for same sorting techniques.
+Idea to do this is to analyze and compare same sorting techniques but with different methods.
