@@ -1,0 +1,5 @@
+Implementing Merge Sort with File Handling.
+-> Generating 50 random numbers in file
+-> Sort the numbers using Merge Sort
+-> Append 50 random numbers in file and again sort it
+-> Repeat this for 10 times
